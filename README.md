@@ -1,2 +1,3 @@
 # java
-Learn programming with Java
+Learn programming with Java. 
+A step by step programming for beginners to practice java programs, understand the logic with the implementation of java.
