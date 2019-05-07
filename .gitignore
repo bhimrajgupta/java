@@ -1,3 +1,8 @@
 .idea/
 *.class
-/.metadata/
+/
+*.metadata/
+
+*.settings
+*.classpath
+*.project
